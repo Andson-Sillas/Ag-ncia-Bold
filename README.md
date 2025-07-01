@@ -1,8 +1,8 @@
 <img src="https://github.com/Andson-Sillas/Ag-ncia-Bold/blob/main/mockup-agencia-bold.png">
 <br>
-<br>
 <h1>Link do Projeto</h1>
 <a href="https://andson-sillas.github.io/Ag-ncia-Bold/">Clique aqui</a>
+<br>
 💼 Projeto: Agência Bold
 Este projeto é uma landing page responsiva desenvolvida com HTML, CSS e JavaScript, que simula o site institucional de uma agência de marketing digital fictícia chamada Agência Bold.
 
